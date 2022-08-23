@@ -1,8 +1,11 @@
 <?php
 
-$dbname = "Your DB name";
-$dbhost = "Your DB host";
-$dbuser = "Your DB user";
-$dbpass = "Your DB password";
+$dbname = "stackmilk";
+$dbhost = "localhost";
+$dbuser = "root";
+$dbpass = "";
+
+echo 'config__';
+
 
 ?>
