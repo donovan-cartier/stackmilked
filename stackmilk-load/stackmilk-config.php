@@ -5,7 +5,6 @@ $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
 
-echo 'config__';
 
 
 ?>
